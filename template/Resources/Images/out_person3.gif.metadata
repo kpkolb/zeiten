@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><note class="form" maintenanceversion="1.0" replicaid="C1257C910046146B" version="9.0" xmlns="http://www.lotus.com/dxl">
+<noteinfo noteid="1aa" sequence="5" unid="5C3125238B0D7E4EC1257BFC003C04EB">
+<created><datetime dst="true">20131006T125534,19+02</datetime></created>
+<modified><datetime>20140304T173426,65+01</datetime></modified>
+<revised><datetime>20140304T173426,64+01</datetime></revised>
+<lastaccessed><datetime>20140304T173426,65+01</datetime></lastaccessed>
+<addedtofile><datetime>20140304T134528,52+01</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Karin Kolb/O=SIT GmbH/C=DE</name><name>CN=K P kolb/O=k-test</name><name>CN=K P Kolb/O=k-test</name></updatedby>
+<wassignedby><name>CN=K P Kolb/O=k-test</name></wassignedby>
+<item name="$FlagsExt" sign="true"><text>D</text></item>
+<item name="$ImagesWide" sign="true"><number>1</number></item>
+<item name="$ImagesHigh" sign="true"><number>1</number></item>
+<item name="$ImagesColorize" sign="true"><number>0</number></item>
+
+
+<item name="$MimeType" sign="true"><text>image/gif</text></item>
+<item name="$FileModDT" sign="true"><datetime dst="true">20101008T111747,90+02</datetime></item>
+<item name="$ImageNames" sign="true"><text>out_kunden.gif</text></item>
+<item name="$Flags"><text>D34CiQ</text></item>
+<item name="$TITLE" sign="true"><text>out_person3.gif</text></item>
+<item name="$DesignerVersion" sign="true"><text>8.5.3</text></item></note>

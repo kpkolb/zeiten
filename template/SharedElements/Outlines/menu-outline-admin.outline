@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<note class='filter' xmlns='http://www.lotus.com/dxl' version='9.0' maintenanceversion='1.0'
+ replicaid='C1257C910046146B'>
+<noteinfo noteid='32e' unid='D81BCD07A0706D7AC1257BFC003FC166' sequence='9'>
+<created><datetime dst='true'>20131006T133622,78+02</datetime></created>
+<modified><datetime>20140304T173417,76+01</datetime></modified>
+<revised><datetime>20140304T173417,75+01</datetime></revised>
+<lastaccessed><datetime>20140304T173417,76+01</datetime></lastaccessed>
+<addedtofile><datetime>20140304T134530,46+01</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Karin Kolb/O=SIT GmbH/C=DE</name><name>CN=K P kolb/O=k-test</name><name
+>CN=K P Kolb/O=k-test</name></updatedby>
+<wassignedby><name>CN=K P Kolb/O=k-test</name></wassignedby>
+<item name='$SiteMapList' sign='true'>
+<rawitemdata type='1a'>
+AQYBAAEAAgBIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAACAEgAPQABCAAA3QAAAAAAAAARAAAALAAAAAAAAAAAAAAAAAAAAAAA
+AwACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFYWxsZSBEb2t1bWVudGUAAQD2/ykA
+AAAAAAMAAgAHAAAAAAAAAAAAAAAAAAAAAAAAAAAAYWxsZG9jcz9IANIAIAgCANwAAAAAAAAAEgAA
+AEQAAAAyAAAAAAAAAEoAAAAAAAUADgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABURh
+dGVuYmFua3Byb2ZpbAABAPb/QgABAAAABQAOACgAAAAAAAAAAAAAAAAAKAAAABwAAgANGAAAAAAA
+AAEABQBzZXR1cADtAgMABwAKAAMACTRTAAEA9v8vAAAAAAADABMADQAAAAAAAAAAAAAAAAAAAAAA
+AAAAAG91dF9zZXR1cC5naWY/AAZIAAcAKAAhACFAQ29udGFpbnMoQFVzZXJSb2xlczsgIltBZG1p
+bl0iKQAHAAoAAwAJMVMAAAAKAAEAAAADAAcACgADAAkwUgA=
+</rawitemdata></item>
+<item name='$TITLE'><text>menu-outline-admin</text></item>
+<item name='$Flags'><text>m</text></item>
+<item name='$DesignerVersion'><text>8.5.3</text></item></note>
+

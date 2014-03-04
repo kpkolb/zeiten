@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf-8'?>
+<note default='true' class='icon' xmlns='http://www.lotus.com/dxl' version='9.0'
+ maintenanceversion='1.0' replicaid='C1257C910046146B'>
+<noteinfo noteid='122' unid='14B63B14A7F5EF12C1257BFC003AB2D7' sequence='21'>
+<created><datetime dst='true'>20131006T124108,71+02</datetime></created>
+<modified><datetime>20140304T173723,55+01</datetime></modified>
+<revised><datetime>20140304T173723,54+01</datetime></revised>
+<lastaccessed><datetime>20140304T173723,55+01</datetime></lastaccessed>
+<addedtofile><datetime>20140304T134527,84+01</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=K P Kolb/O=k-test</name></updatedby>
+<item name='$LaunchXPageRunOnServer'><text>0</text></item>
+<item name='$FlagsNoRefresh'><text/></item>
+<item name='$DefaultFrameset'><text>fsNotesHome</text></item>
+<item name='$Flags'><text>JF7</text></item>
+<item name='$PIRCRefreshModTime'><datetime>20140209T224514,76+01</datetime></item>
+<item name='$TemplateModTime'><datetime>20140209T224447,05+01</datetime></item>
+<item name='$TemplateServerName'><text>CN=Karin Kolb/O=SIT GmbH/C=DE</text></item>
+<item name='$TemplateFileName'><text>E:\Lotus\Data\Notes\sitzeit-20140209.ntf</text></item>
+<item name='$Daos'><text>0</text></item>
+<item name='IconBitmap' summary='true'>
+<rawitemdata type='6'>
+AiAgAQAA/////////////8P///8B///8AP//+AB///gAf//4AH//+AB//hgAf/gIAH/gBAD/wAIB
+/8ACB//AAA//wAAH/8AAA//AAAP/4AAD//AAA//4AAP//MAD///gB///8A////g////8////////
+//////////////////////////8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAACZAAAAAAAAAAAAAAAAAACZmQkAAAAAAAAAAAAAAACZmZkAkAAA
+AAAAAAAAAAAAmZmZCQkAAAAAAAAAAAAAAJmZmQCQAAAAAAAAAAAAAACZmZkJCQAAAAAAAAAAAAAA
+mZkAkJAAAAAAAAAACZAAAJkAGRkJAAAAAAAACZmQkAAAkZGRkAAAAAAACZmZkAkAABkZEAAAAAAA
+AAmZmZCQkAABAQAAAAAAAAAJmZmQCQAJkAAAAAAAAAAACZmZkJAJmZCQAAAAAAAAAAmZkAkJmZmQ
+CQAAAAAAAAAJkAGRCZmZkJCQAAAAAAAAAAkZGQmZmZAJAAAAAAAAAAABkZEJmZmQkJAAAAAAAAAA
+ABkACZmQCQkAAAAAAAAAAAAAAAmQAZGQkAAAAAAAAAAAAAAACRkZGQAAAAAAAAAAAAAAAAGRkQAA
+AAAAAAAAAAAAAAAAGQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAA==
+</rawitemdata></item>
+<item name='$TITLE'><text>Template Zeiten
+</text></item></note>
+

@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<note class='filter' xmlns='http://www.lotus.com/dxl' version='9.0' maintenanceversion='1.0'
+ replicaid='C1257C910046146B'>
+<noteinfo noteid='326' unid='45D26062570E5E2DC1257BFC003FC164' sequence='6'>
+<created><datetime dst='true'>20131006T133622,76+02</datetime></created>
+<modified><datetime>20140304T173417,17+01</datetime></modified>
+<revised><datetime>20140304T173417,16+01</datetime></revised>
+<lastaccessed><datetime>20140304T173417,17+01</datetime></lastaccessed>
+<addedtofile><datetime>20140304T134530,42+01</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Karin Kolb/O=SIT GmbH/C=DE</name><name>CN=K P kolb/O=k-test</name><name
+>CN=K P Kolb/O=k-test</name></updatedby>
+<wassignedby><name>CN=K P Kolb/O=k-test</name></wassignedby>
+<item name='$SiteMapList' sign='true'>
+<rawitemdata type='1a'>
+AQYBAAEAAQBIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAABAEgADAAIDAAAfwAAAAAAAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFRWludHJhZyAzAA==
+</rawitemdata></item>
+<item name='$TITLE'><text>menu-outline-3</text></item>
+<item name='$Flags'><text>m</text></item>
+<item name='$DesignerVersion'><text>8.5.3</text></item></note>
+

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><note class="form" maintenanceversion="1.0" replicaid="C1257C910046146B" version="9.0" xmlns="http://www.lotus.com/dxl">
+<noteinfo noteid="362" sequence="5" unid="670EF08D09DB7900C1257C170053E97E">
+<created><datetime>20131102T161632,62+01</datetime></created>
+<modified><datetime>20140304T173430,79+01</datetime></modified>
+<revised><datetime>20140304T173430,78+01</datetime></revised>
+<lastaccessed><datetime>20140304T173430,79+01</datetime></lastaccessed>
+<addedtofile><datetime>20140304T134530,72+01</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Martin Vereecken/O=Martin Vereecken</name><name>CN=Karin Kolb/O=SIT GmbH/C=DE</name><name>CN=K P kolb/O=k-test</name><name>CN=K P Kolb/O=k-test</name></updatedby>
+<wassignedby><name>CN=K P Kolb/O=k-test</name></wassignedby>
+<item name="$TITLE"><text>roundedfull_topleft.gif</text></item>
+<item name="$FlagsExt"><text>D</text></item>
+<item name="$ImagesWide" sign="true"><number>1</number></item>
+<item name="$ImagesHigh" sign="true"><number>1</number></item>
+<item name="$ImagesColorize" sign="true"><number>0</number></item>
+
+
+<item name="$MimeType" sign="true"><text>image/gif</text></item>
+<item name="$FileModDT" sign="true"><datetime>20071219T220926,00+00</datetime></item>
+<item name="$ImageNames" sign="true"><text>roundedfull_topleft.gif</text></item>
+<item name="$DesignerVersion"><text>6.0</text></item>
+<item name="$EditFilePath"><text>C:\Users\kolb.SITGMBH\AppData\Local\Temp\notesDD15F4\~roundedfull_topleft.gif</text></item>
+<item name="$Flags"><text>D34CiQ</text></item></note>

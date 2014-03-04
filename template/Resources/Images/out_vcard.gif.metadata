@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><note class="form" maintenanceversion="1.0" replicaid="C1257C910046146B" version="9.0" xmlns="http://www.lotus.com/dxl">
+<noteinfo noteid="2f2" sequence="5" unid="EA83AACC74D6D5A5C1257BFC003E0A61">
+<created><datetime dst="true">20131006T131738,89+02</datetime></created>
+<modified><datetime>20140304T173428,42+01</datetime></modified>
+<revised><datetime>20140304T173428,41+01</datetime></revised>
+<lastaccessed><datetime>20140304T173428,42+01</datetime></lastaccessed>
+<addedtofile><datetime>20140304T134530,16+01</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Karin Kolb/O=SIT GmbH/C=DE</name><name>CN=K P kolb/O=k-test</name><name>CN=K P Kolb/O=k-test</name></updatedby>
+<wassignedby><name>CN=K P Kolb/O=k-test</name></wassignedby>
+<item name="$Flags"><text>34CiQ</text></item>
+<item name="$FlagsExt" sign="true"><text>D</text></item>
+<item name="$ImagesWide" sign="true"><number>1</number></item>
+<item name="$ImagesHigh" sign="true"><number>1</number></item>
+<item name="$ImagesColorize" sign="true"><number>0</number></item>
+
+
+<item name="$MimeType" sign="true"><text>image/gif</text></item>
+<item name="$FileModDT" sign="true"><datetime dst="true">20130724T212308,00+02</datetime></item>
+<item name="$ImageNames" sign="true"><text>vcardforward_person.gif</text></item>
+<item name="$TITLE" sign="true"><text>out_vcard.gif</text></item>
+<item name="$DesignerVersion" sign="true"><text>8.5.3</text></item></note>

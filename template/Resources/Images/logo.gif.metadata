@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><note class="form" maintenanceversion="1.0" replicaid="C1257C910046146B" version="9.0" xmlns="http://www.lotus.com/dxl">
+<noteinfo noteid="16a" sequence="10" unid="EEA685041BE2EA9CC1257BFC003B040F">
+<created><datetime dst="true">20131006T124436,63+02</datetime></created>
+<modified><datetime>20140304T173415,98+01</datetime></modified>
+<revised><datetime>20140304T173415,97+01</datetime></revised>
+<lastaccessed><datetime>20140304T173415,98+01</datetime></lastaccessed>
+<addedtofile><datetime>20140304T134528,20+01</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Karin Kolb/O=SIT GmbH/C=DE</name><name>CN=K P kolb/O=k-test</name><name>CN=K P Kolb/O=k-test</name></updatedby>
+<wassignedby><name>CN=K P Kolb/O=k-test</name></wassignedby>
+<item name="$FlagsExt" sign="true"><text>D</text></item>
+<item name="$ImagesWide" sign="true"><number>1</number></item>
+<item name="$ImagesHigh" sign="true"><number>1</number></item>
+<item name="$ImagesColorize" sign="true"><number>0</number></item>
+<item name="$TITLE" sign="true"><text>logo.gif</text></item>
+<item name="$Comment" sign="true"><text>logo used in banner and forms</text></item>
+<item name="$DesignerVersion" sign="true"><text>8.5.3</text></item>
+
+
+<item name="$MimeType" sign="true"><text>image/gif</text></item>
+<item name="$FileModDT" sign="true"><datetime>20140304T140334,82+01</datetime></item>
+<item name="$Flags"><text>34CiQ</text></item>
+<item name="$ImageNames" sign="true"><text>logo-transp.gif</text></item></note>

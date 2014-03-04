@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><note class="form" maintenanceversion="1.0" replicaid="C1257C910046146B" version="9.0" xmlns="http://www.lotus.com/dxl">
+<noteinfo noteid="17a" sequence="3" unid="E2D49E00BEDD3A0EC1257BFC003B0414">
+<created><datetime dst="true">20131006T124436,68+02</datetime></created>
+<modified><datetime>20140304T173432,57+01</datetime></modified>
+<revised><datetime>20140304T173432,56+01</datetime></revised>
+<lastaccessed><datetime>20140304T173432,57+01</datetime></lastaccessed>
+<addedtofile><datetime>20140304T134528,28+01</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Karin Kolb/O=SIT GmbH/C=DE</name><name>CN=K P kolb/O=k-test</name><name>CN=K P Kolb/O=k-test</name></updatedby>
+<wassignedby><name>CN=K P Kolb/O=k-test</name></wassignedby>
+<item name="$TITLE"><text>tab-l-s.png</text></item>
+<item name="$Flags"><text>34CiQ</text></item>
+<item name="$FlagsExt"><text>D</text></item>
+<item name="$ImagesWide" sign="true"><number>1</number></item>
+<item name="$ImagesHigh" sign="true"><number>1</number></item>
+<item name="$ImagesColorize" sign="true"><number>0</number></item>
+
+
+<item name="$FileModDT" sign="true"><datetime dst="true">20130722T132056,87+02</datetime></item>
+<item name="$ImageNames" sign="true"><text>tab-l-s.png</text></item>
+<item name="$DesignerVersion"><text>8.5.3</text></item></note>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<note class='form' xmlns='http://www.lotus.com/dxl' version='9.0' maintenanceversion='1.0'
+ replicaid='C1257C910046146B'>
+<noteinfo noteid='152' unid='2AF7D45ADFB79723C1257BFC003AC447' sequence='13'>
+<created><datetime dst='true'>20131006T124153,35+02</datetime></created>
+<modified><datetime>20140304T173431,68+01</datetime></modified>
+<revised><datetime>20140304T173431,67+01</datetime></revised>
+<lastaccessed><datetime>20140304T173431,68+01</datetime></lastaccessed>
+<addedtofile><datetime>20140304T134528,08+01</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Karin Kolb/O=SIT GmbH/C=DE</name><name>CN=K P kolb/O=k-test</name><name
+>CN=K P Kolb/O=k-test</name></updatedby>
+<wassignedby><name>CN=K P Kolb/O=k-test</name></wassignedby>
+<item name='$TITLE' sign='true'><text>standard|fsNotesHome</text></item>
+<item name='$WindowTitle' sign='true'><formula>@DbTitle</formula></item>
+<item name='$Comment' sign='true'><text/></item>
+<item name='$PublicAccess'><text>1</text></item>
+<item name='$FrameSet' sign='true'>
+<rawitemdata type='1'>
+7/8YAAIABgAAAAAAAAAAAAAAAAAAAAAA8P9CAEUAAAAAAAAAAAABAAEAAAAAAAUAAAAAAAUAAAAA
+AAMAAQAAAAAAAQDS0tIAAAABAFAAAQASAAMAAQADAAEA8f86ABEAAAAAQAABAgABAAEAAAAAAAYA
+AAAAAAEA0tLSAAAAQmFubmVyAQD////IAQAACgEAAAAAyPb/KAAAAAAAAwAHAAYAAAAAAAAAAAAA
+AAAAAAAAAAAAAABiYW5uZXLx/zQAEQAAAABAAAECAAEAAQAAAAAAAAAAAAAAAQDS0tIAAAABAP//
+/8gBAAAKAQAAAADI9v8yAAAAAAADAAIAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAHN5c3RlbW5hdmln
+YXRpb27w/z4AAQAAAAAAAAAAAAEAAQAAAAAABQAAAAAABQAAAAAAAQACAAAAAAAFANLS0gAAAAMA
+AQABAPoAAgBUAPH/PwARAAAAAEAAAAIAAQABAAAAAAAHAAAABAABANLS0gAAAE5hdlBhbmVNYWlu
+AQD////IAQAACgEAAAAAyD/2/ysAAAAAAAMAAwAJAAAAAAAAAAAAAAAAAAAAAAAAAAAATm90ZXNN
+ZW51P/H/OAARAQAAAEAAAQEAAQABAAAAAAAEAAAAAAABANLS0gAAAE1haW4BAP///8gBAAAKAQAA
+AADI9v9LAAAAAAADAAIAGAAAABEAAAAAAAAAAAB3b3JrXHNpdF96ZWl0Lm5zZgAAAAAAAAAAQXJi
+ZWl0c3plaXRlblxCZWFyYmVpdGVyPw==
+</rawitemdata></item>
+<item name='$Flags'><text>#34CQ</text></item>
+<item name='$DesignerVersion'><text>8.5.3</text></item></note>
+

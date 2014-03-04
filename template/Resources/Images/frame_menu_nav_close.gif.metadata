@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><note class="form" maintenanceversion="1.0" replicaid="C1257C910046146B" version="9.0" xmlns="http://www.lotus.com/dxl">
+<noteinfo noteid="15e" sequence="5" unid="029FD544F7D4F41BC1257BFC003B040C">
+<created><datetime dst="true">20131006T124436,60+02</datetime></created>
+<modified><datetime>20140304T173414,21+01</datetime></modified>
+<revised><datetime>20140304T173414,20+01</datetime></revised>
+<lastaccessed><datetime>20140304T173414,21+01</datetime></lastaccessed>
+<addedtofile><datetime>20140304T134528,14+01</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=Karin Kolb/O=SIT GmbH/C=DE</name><name>CN=K P kolb/O=k-test</name><name>CN=K P Kolb/O=k-test</name></updatedby>
+<wassignedby><name>CN=K P Kolb/O=k-test</name></wassignedby>
+<item name="$FlagsExt" sign="true"><text>D</text></item>
+<item name="$ImagesWide" sign="true"><number>1</number></item>
+<item name="$ImagesHigh" sign="true"><number>1</number></item>
+<item name="$ImagesColorize" sign="true"><number>0</number></item>
+
+
+<item name="$MimeType" sign="true"><text>image/gif</text></item>
+<item name="$FileModDT" sign="true"><datetime dst="true">20050404T122331,51+01</datetime></item>
+<item name="$ImageNames" sign="true"><text>ng-close.gif</text></item>
+<item name="$$ScriptName" sign="true" summary="false"><text>nav-close.gif</text></item>
+<item name="$Flags"><text>34CiQ</text></item>
+<item name="$TITLE" sign="true"><text>frame_menu_nav_close.gif</text></item>
+<item name="$DesignerVersion" sign="true"><text>8.5.3</text></item></note>
