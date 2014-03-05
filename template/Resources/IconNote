@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
 <note default='true' class='icon' xmlns='http://www.lotus.com/dxl' version='9.0'
  maintenanceversion='1.0' replicaid='C1257C910046146B'>
-<noteinfo noteid='122' unid='14B63B14A7F5EF12C1257BFC003AB2D7' sequence='21'>
+<noteinfo noteid='122' unid='14B63B14A7F5EF12C1257BFC003AB2D7' sequence='24'>
 <created><datetime dst='true'>20131006T124108,71+02</datetime></created>
-<modified><datetime>20140304T173723,55+01</datetime></modified>
-<revised><datetime>20140304T173723,54+01</datetime></revised>
-<lastaccessed><datetime>20140304T173723,55+01</datetime></lastaccessed>
+<modified><datetime>20140304T223632,05+01</datetime></modified>
+<revised><datetime>20140304T223632,04+01</datetime></revised>
+<lastaccessed><datetime>20140304T223632,05+01</datetime></lastaccessed>
 <addedtofile><datetime>20140304T134527,84+01</datetime></addedtofile></noteinfo>
 <updatedby><name>CN=K P Kolb/O=k-test</name></updatedby>
 <item name='$LaunchXPageRunOnServer'><text>0</text></item>
@@ -32,6 +32,6 @@ AAAAAAAAAAAAAAAAGQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAA==
 </rawitemdata></item>
-<item name='$TITLE'><text>Template Zeiten
+<item name='$TITLE'><text>Template Zeiten (05.03.2014)
 </text></item></note>
 
